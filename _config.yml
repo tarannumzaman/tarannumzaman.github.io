@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Md. Tariqul Islam "Pavel""
+description              : &description "Md Tariqul Islam ‘Pavel’ is an Assistant Professor of Trustworthy Cyberspace in the School of Information Studies at the Syracuse University. Pavel received his bachelor’s degree (2008) in Computer Science and Engineering from the University of Dhaka, Bangladesh. He earned his master’s (2016) and Ph.D. (2020) in Computer Science from the University of Kentucky."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
