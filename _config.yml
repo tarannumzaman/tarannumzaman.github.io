@@ -83,8 +83,8 @@ analytics:
 # Site Author
 author:
   name             : "Md. Tariqul Islam 'Pavel'"
-  avatar           : "/images/sample_3.jpg"
-  bio              : "Assistant Professor of Trustworthy Cyberspace"
+  avatar           : "https://mtipavel.github.io/images/sample_3.jpg"
+  bio              : "Assistant Professor of Trustworthy Cyberspace Syracuse University"
   location         : "Syracuse, New York"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
