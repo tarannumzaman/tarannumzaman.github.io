@@ -82,15 +82,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Md. Tariqul Islam 'Pavel'"
+  avatar           : "sample_3.png"
+  bio              : "Assistant Professor | Trustworthy Cyberspace"
+  location         : "Syracuse, New York"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.es/citations?hl=en&user=oaquHmoAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Tariqul_Islam16"
   uri              :
   bitbucket        :
   codepen          :
