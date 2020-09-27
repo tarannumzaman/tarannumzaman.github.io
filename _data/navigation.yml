@@ -2,7 +2,7 @@
 main:
 
   - title: "Eduaction"
-    url: /year-archive/
+    url: /education/
     
   - title: "Research"
     url: /research/
