@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tarannum's Homepage"
 title_separator          : "-"
 name                     : &name "Tarannum Shaila Zaman"
-description              : &
+description              : ""
 url                      : https://tarannumzaman.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mtipavel/mtipavel.github.io"
