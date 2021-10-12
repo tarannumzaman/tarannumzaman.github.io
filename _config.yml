@@ -85,31 +85,31 @@ author:
   bio              : "Phd Candidate, Graduate Research Assistant, Department of Computer Science, University of Kentucky"
   location         : "Lexington, Kentucky"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.es/citations?hl=en&user=oaquHmoAAAAJ"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?pli=1&authuser=1&user=1oUiDgIAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Tariqul_Islam16"
+  researchgate     :  "https://www.researchgate.net/profile/Tarannum-Zaman"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :"https://www.facebook.com/AmiNai/"
   foursquare       :
   github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
