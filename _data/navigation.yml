@@ -14,18 +14,9 @@ main:
 
   - title: "Talks"
     url: /talks/    
-       
-  #- title: "Students"
-   # url: /students/
-    
+          
   - title: "Awards"
     url: /awards/
     
   - title: "CV"
     url: /cv/
-    
-  #- title: "Personal"
-   # url: /personal/    
-    
- # - title: "Guide"
- #  url: /markdown/
