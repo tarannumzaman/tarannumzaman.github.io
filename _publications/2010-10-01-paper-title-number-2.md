@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Extracting implicit programming rules: comparing static and dynamic approaches"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: ''
+date: 2018-09-03
+venue: 'SoftwareMining 2018: Proceedings of the 7th International Workshop on Software Mining'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3242887.3242889'
+citation: 'Tarannum Shaila Zaman and Tingting Yu. 2018. Extracting implicit programming rules: comparing static and dynamic approaches. In Proceedings of the 7th International Workshop on Software Mining (SoftwareMining 2018). Association for Computing Machinery, New York, NY, USA, 1–7. DOI:https://doi.org/10.1145/3242887.3242889'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.researchgate.net/profile/Tarannum-Zaman/publication/327125678_Extracting_implicit_programming_rules_comparing_static_and_dynamic_approaches/links/5be9b5f14585150b2bb2319b/Extracting-implicit-programming-rules-comparing-static-and-dynamic-approaches.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Tarannum Shaila Zaman and Tingting Yu. 2018. Extracting implicit programming rules: comparing static and dynamic approaches. In Proceedings of the 7th International Workshop on Software Mining (SoftwareMining 2018). Association for Computing Machinery, New York, NY, USA, 1–7. DOI:https://doi.org/10.1145/3242887.3242889.
