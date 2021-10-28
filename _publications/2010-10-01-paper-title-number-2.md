@@ -2,7 +2,7 @@
 title: "Extracting implicit programming rules: comparing static and dynamic approaches"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: ''
+excerpt:
 date: 2018-09-03
 venue: 'SoftwareMining 2018: Proceedings of the 7th International Workshop on Software Mining'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3242887.3242889'
