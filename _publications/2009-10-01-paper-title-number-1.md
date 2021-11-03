@@ -1,8 +1,8 @@
 ---
 title: "SCMiner: localizing system-level concurrency faults from large system call traces"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-#excerpt: ''
+permalink: /publication/2010-10-01-paper-title-number-1
+excerpt:
 date: 2019-11-11
 venue: '34th IEEE/ACM International Conference on Automated Software Engineering (ASE)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8952396'
