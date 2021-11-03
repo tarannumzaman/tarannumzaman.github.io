@@ -11,7 +11,7 @@ citation: T. S. Zaman, X. Han and T. Yu, "SCMiner: Localizing System-Level Concu
 
 [Download paper here](https://par.nsf.gov/servlets/purl/10166153)
 
-Recommended citation: Localizing concurrency faults that occur in production
+Abstract: Localizing concurrency faults that occur in production
 is hard because, (1) detailed field data, such as user input,
 file content and interleaving schedule, may not be available to
 developers to reproduce the failure; (2) it is often impractical to
