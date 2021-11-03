@@ -11,4 +11,4 @@ citation: 'Tarannum Shaila Zaman and Tingting Yu. 2018. Extracting implicit prog
 
 [Download paper here](https://scholar.google.com/scholar?oi=bibs&hl=en&authuser=1&cluster=8226508709845992138)
 
-Recommended citation: Tarannum Shaila Zaman and Tingting Yu. 2018. Extracting implicit programming rules: comparing static and dynamic approaches. In Proceedings of the 7th International Workshop on Software Mining (SoftwareMining 2018). Association for Computing Machinery, New York, NY, USA, 1–7. DOI:https://doi.org/10.1145/3242887.3242889.
+Abstract: Tarannum Shaila Zaman and Tingting Yu. 2018. Extracting implicit programming rules: comparing static and dynamic approaches. In Proceedings of the 7th International Workshop on Software Mining (SoftwareMining 2018). Association for Computing Machinery, New York, NY, USA, 1–7. DOI:https://doi.org/10.1145/3242887.3242889.
