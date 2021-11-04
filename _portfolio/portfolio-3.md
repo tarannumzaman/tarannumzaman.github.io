@@ -1,5 +1,5 @@
 ---
-title: "Research Project 3: Automated Localization of System-level Concurrency Bugs."
+title: "Research Project 3: Automated Localization of System-level Concurrency Bugs"
 excerpt: "Localizing concurrency faults that occur in production is hard because, (1) detailed field data, such as user input, file content and interleaving schedule, may not be available to developers to reproduce the failure; (2) it is often impractical to assume the availability of multiple failing executions to localize the faults using existing techniques; (3) it is challenging to search for buggy locations in an application given limited runtime data; and, (4) concurrency failures at the system level often involve multiple processes or event handlers (e.g., software signals), which cannot be handled by existing tools for diagnosing intra-process (thread-level) failures "
 collection: portfolio
 ---
