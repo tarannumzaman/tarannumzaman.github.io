@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "CS 215-Introduction to Program Design, Abstraction and Problem Solving (C++Programming)"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Kentucky, Department of Computer Science (Fall 2018 & Spring 2019)"
+date: 2018-08-20
+location: "Lexington, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+ I worked as a teaching assistant in this course and taught fundamental elements of data structures and algorithm design.
