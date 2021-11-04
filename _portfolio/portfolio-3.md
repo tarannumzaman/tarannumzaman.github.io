@@ -1,0 +1,7 @@
+---
+title: "Research Project 3: Automated Localization of System-level Concurrency Bugs."
+excerpt: "Localizing concurrency faults that occur in production is hard because, (1) detailed field data, such as user input, file content and interleaving schedule, may not be available to developers to reproduce the failure; (2) it is often impractical to assume the availability of multiple failing executions to localize the faults using existing techniques; (3) it is challenging to search for buggy locations in an application given limited runtime data; and, (4) concurrency failures at the system level often involve multiple processes or event handlers (e.g., software signals), which cannot be handled by existing tools for diagnosing intra-process (thread-level) failures "
+collection: portfolio
+---
+
+We develop a practical online bug diagnosis tool to help developers understand how a system-level concurrency fault happens based on the logs collected by the default system audit tools. Our Technique achieves online bug diagnosis to obviate the need for offline bug reproduction. It does not require code instrumentation on the production system or rely on the assumption of the availability of multiple failing executions. Specifically, after the system call traces are collected, it uses data mining and statistical anomaly detection techniques to identify the failure inducing system call sequences. It then maps each abnormal sequence to specific application functions.
