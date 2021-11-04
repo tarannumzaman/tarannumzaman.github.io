@@ -1,5 +1,5 @@
 ---
-title: "Research Project 1: Automated Reproduction of System-Level Concurrency Bugs by using the default consol logs"
+title: "Research Project 1: Automated Reproduction of System-Level Concurrency Bugs by Using the Default Consol Logs"
 excerpt: "Reproducing System-Level Concurrency failures is hard because (1) concurrency failures at the system level often involve multiple processes or event handlers (e.g., software signals), which cannot be handled by existing tools for reproducing intra-process (thread-level) failures; (2) detailed field data, such as user input, file content and interleaving schedule, may not be available to developers; and (3) the debugging environment may differ from the deployed environment, which further complicates failure reproduction. To address these problems, we develped automated teqniques to reproduce system-level concurrency bugs by using the default console logs of an application"
 collection: portfolio
 ---
