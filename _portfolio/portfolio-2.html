@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Research Project 2: Automatically Reproduce System-Level Concurrency Bugs from Bug Reports"
+excerpt: "Besides input information, interleaving information is required to reproduce system-level concurrency bugs. Therefore, developers need to extract both of this information from bug reports which are mostly written in natural language. Due to the non-deterministic nature and the requirements for extra information to reproduce the system-level concurrency bugs, it is very difficult and sometimes impossible to reproduce these bugs manually from bug reports. Current bug reproduction tools are not compatible with this type of bug as we need to know the specific interleaving schedule operated at the system call level to reproduce these bugs"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Data Mining, Natural Language Processing, Static and Dynamic Analysis of Source Code and Information Rertieval techniques are used to develop bug reproduction of system-level concurrency bugs from bug reports. Once developers receive a bug report, an important and often the first step is to reproduce the failure. However, this is challenging primarily because the provided information in bug reports is often unstructured and written in natural language, which can be ambiguous and incomplete. Even we assume the developers perfectly understand the bug report, the actual reproduction can be challenging since a concurrent program can behave differently in a similar environment for each execution. We proposes a practical bug reproduction tool to help developers reproduce concurrency failures and localize the cause of the failure in specific application functions by using only bug reports. (ICSE 2022 submitted).
