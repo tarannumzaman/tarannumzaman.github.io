@@ -4,4 +4,5 @@ excerpt: "Reproducing System-Level Concurrency failures is hard because (1) conc
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+To develop automated bug reproduction technique just by using the default connsole logs of an application, we uses a combination of static and dynamic analysis techniques,together with symbolic execution. (FSE 2017)
+Data Mining, Natural Language Processing, Static and Dynamic Analysis of Source Code and Information Rertieval techniques are used to develop bug reproduction of system-level concurrency bugs from bug reports.  
