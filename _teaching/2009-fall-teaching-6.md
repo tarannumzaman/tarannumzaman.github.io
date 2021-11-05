@@ -4,7 +4,7 @@ collection: teaching
 type: "High School course"
 permalink: /teaching/2009-fall-teaching-6
 venue: "Holy Cross Girls' High School & College"
-date: 2016-08-20
+date: 2009-08-20
 location: "Dhaka, Bangladesh"
 ---
 
