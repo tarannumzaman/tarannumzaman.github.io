@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+[Download paper here](https://par.nsf.gov/servlets/purl/10166153)
 {% include base_path %}
 
 Education
