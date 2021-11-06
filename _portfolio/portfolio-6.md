@@ -1,6 +1,6 @@
 ---
 title: "Research Project 6: Towards an User Interactive Debugging Technique"
-excerpt: Many Automated debug-ging  techniques  are  developed  and  proposed  by  researchers.   However,  there  is  noresearch  on  the  real-world  usage  of  these  techniques.   To  develop  an  user  friendlydebugging technique we set up research questions for developers.  The answers willshow the path to develop an user-interactive debugging technique.
+excerpt: "Many Automated debug-ging  techniques  are  developed  and  proposed  by  researchers.   However,  there  is  noresearch  on  the  real-world  usage  of  these  techniques. To  develop  an  user  friendlydebugging technique we set up research questions for developers.  The answers willshow the path to develop an user-interactive debugging technique."
 collection: portfolio
 ---
 
