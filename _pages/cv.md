@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download paper here](https://par.nsf.gov/servlets/purl/10166153)
+[Download paper here](https://github.com/tarannumzaman/tarannumzaman.github.io/blob/master/files/CV_Tarannum.pdf)
 {% include base_path %}
 
 Education
