@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am actively looking for a tenure track assistant professor position in the field of Computer Science, Software Engineering, and Information Systems.
+I am actively looking for a Tenure-Track Assistant Professor Position in the field of Computer Science, Software Engineering, and Information Systems.
 
 About Me
 ======
