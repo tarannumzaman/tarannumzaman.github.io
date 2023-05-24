@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am actively looking for a Tenure-Track Assistant Professor Position in the field of Computer Science, Software Engineering, and Information Systems.
+I am actively searching for a self motivated and hard working MS students in the Software Engineering, Data Mining and Information Systems.
 
 About Me
 ======
 
-I am a PhD candidate in the Department of Computer Science at the University of Kentucky. My advisor is Dr. Tingting Yu. I received my MS. and BSc. in the Department of Computer Science, the University of Dhaka in 2013 and 2011 respectively.
+I am a tenure-track Assistant Professor of Computer and Information Science at the State University of New York Polytechnic Institute (SUNY Poly). I have earned my Ph.D. in Computer Science from the University of Kentucky in 2022. My advisor is Dr. Tingting Yu. I have earned my MS and BSc. degree in Computer Science from the University of Dhaka in 2013 and 2011 respectively.
 
 
 Research Interest
