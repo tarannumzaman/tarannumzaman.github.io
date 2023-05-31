@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am actively searching for a self motivated and hard working MS students in the Software Engineering, Data Mining and Information Systems.
+I am actively searching for a self motivated and hard working MS students in the Software Engineering, Data Mining, and Information Systems.
 
 About Me
 ======
