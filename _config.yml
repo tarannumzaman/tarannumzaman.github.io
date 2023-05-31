@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tarannum's Homepage"
 title_separator          : "-"
 name                     : &name "Tarannum Shaila Zaman"
-description              : "I am a PhD candidate in the Department of Computer Science at University of Kentucky. "
+description              : "I am an Assistant Professor of Computer and Information Science in the State University of New York Polytechnic Institute"
 url                      : https://tarannumzaman.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tarannumzaman/tarannumzaman.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tarannum Shaila Zaman"
   avatar           : "https://tarannumzaman.github.io/images/shaila.jpg"
-  bio              : "Phd Candidate, Graduate Research Assistant, Department of Computer Science, University of Kentucky"
-  location         : "Lexington, Kentucky"
+  bio              : "Assistant Professor, Department of Computer and Information Science, SUNY Polytechnic Institute"
+  location         : "Utica, New York"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?pli=1&authuser=1&user=1oUiDgIAAAAJ"
