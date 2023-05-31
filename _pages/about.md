@@ -10,7 +10,7 @@ redirect_from:
 1. One paper aceepted in FiCloud 2023.
 2. One Paper published in IEEE SoutheastCon2023.
 
-I am actively searching for a self motivated and hard working MS students in the Software Engineering, Data Mining, and Information Systems.
+I am searching for self motivated and hard working MS students in the Software Engineering, Data Mining, and Information Systems.
 
 About Me
 ======
