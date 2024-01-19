@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-1. One paper aceepted in FiCloud 2023.
-2. One Paper published in IEEE SoutheastCon2023.
+1. Best Paper Award in IEEE CCWC 2024.
+2. One paper published in IEEE CCWC 2024.
+3. One full Paper and one poster published in IEEE CCNC 2024.
 
-I am searching for self motivated and hard working MS students in the Software Engineering, Data Mining, and Information Systems.
+I am searching for self-motivated and hard-working MS students in Software Engineering, Data Mining, and Information Systems.
 
 About Me
 ======
