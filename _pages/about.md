@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-1. Best Paper Award in IEEE CCWC 2024.
-2. One paper published in IEEE CCWC 2024.
-3. One full Paper and one poster published in IEEE CCNC 2024.
+1. Will be joining the Information Systems department at UMBC starting Spring 2025.
+2. Received my first-ever NSF grant: NSF CRII 2024!
+3. Best Paper Award in IEEE CCWC 2024.
 
-I am searching for self-motivated and hard-working MS students in Software Engineering, Data Mining, and Information Systems.
+I am looking for self-motivated and hard-working Ph.D. students in Software Engineering, with experience in Natural Language Processing, Large Language Models, Data Mining, and Program Analysis.
 
 About Me
 ======
