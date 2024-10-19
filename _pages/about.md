@@ -9,7 +9,8 @@ redirect_from:
 ---
 1. Will be joining the Information Systems department at UMBC starting Spring 2025.
 2. Received my first-ever NSF grant: NSF CRII 2024!
-3. Best Paper Award in IEEE CCWC 2024.
+3. Received Dean's Excellence Award in Research from the College of Engineering, SUNY Polytechnic Institute!
+4. Best Paper Award in IEEE CCWC 2024.
 
 I am looking for self-motivated and hard-working Ph.D. students in Software Engineering, with experience in Natural Language Processing, Large Language Models, Data Mining, and Program Analysis.
 
