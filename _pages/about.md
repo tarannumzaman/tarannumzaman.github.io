@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-1. I have joined UMBC as an Assistant Professor of Information Systems.
-2. I am teaching IS 636: Structured System Analysis and Design this semester.
-3. Excited to receive my first-ever NSF grant: NSF CRII 2024!
-4. Honored to receive the Dean's Excellence Award in Research from the College of Engineering at SUNY Polytechnic Institute!
+1. One paper is accepted in the FSE 2025 Ideas, Visions and Reflections Track (FSE-IVR).
+2. I have joined UMBC as an Assistant Professor of Information Systems.
+3. I am teaching IS 636: Structured System Analysis and Design this semester.
+4. Excited to receive my first-ever NSF grant: NSF CRII 2024!
+5. Honored to receive the Dean's Excellence Award in Research from the College of Engineering at SUNY Polytechnic Institute!
 
 I am looking for self-motivated and hard-working Ph.D. students in Software Engineering, with experience in Natural Language Processing, Large Language Models, Data Mining, and Program Analysis.
 
@@ -22,6 +23,6 @@ I am a tenure-track Assistant Professor of Information Systems at the University
 
 Research Interest
 ======
-I am interested in techniques that make computer systems more autonomous, efficient, reliable, and user-friendly. In my current research works, I used Data Mining, LLMs, Natural Language Processing, Knowledge Discovery, Information Retrieval, and Program Analysis to make the concurrent software systems autonomous.  
+I am interested in techniques that make Software and Information systems more autonomous, efficient, reliable, and user-friendly. In my current research works, I used Data Mining, LLMs, Natural Language Processing, Knowledge Discovery, Information Retrieval, and Program Analysis to make the concurrent software systems autonomous.  
 
 
