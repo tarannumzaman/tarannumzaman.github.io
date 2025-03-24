@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tarannum's Homepage"
 title_separator          : "-"
 name                     : &name "Tarannum Shaila Zaman"
-description              : "I am an Assistant Professor of Computer and Information Science in the State University of New York Polytechnic Institute"
+description              : "I am an Assistant Professor of Information Systems in the University of Maryland Baltimore County"
 url                      : https://tarannumzaman.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tarannumzaman/tarannumzaman.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tarannum Shaila Zaman"
   avatar           : "https://tarannumzaman.github.io/images/shaila.jpg"
-  bio              : "Assistant Professor, Department of Computer and Information Science, SUNY Polytechnic Institute"
-  location         : "Utica, New York"
+  bio              : "Assistant Professor, Department of Information Systems, University of Maryland Baltimore County"
+  location         : "Baltimore, Maryland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_sVj4u8AAAAJ&hl=en"
