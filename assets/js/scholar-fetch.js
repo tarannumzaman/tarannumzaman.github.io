@@ -19,7 +19,7 @@ class ScholarFetcher {
    */
   async fetchPublications(filterByYear = null) {
     try {
-      let url = `${this.baseUrl}/author/${this.authorId}/papers?fields=title,year,authors,paperId,externalIds`;
+      let url = `${this.baseUrl}/author/${this.authorId}/papers?fields=title,year,authors,paperId,externalIds,venue`;
       
       // Add year filter if provided
       if (filterByYear) {
@@ -124,6 +124,14 @@ class ScholarFetcher {
         if (paper.authors && paper.authors.length > 0) {
           const authorNames = paper.authors.map(a => a.name).join(', ');
           html += `<div class="pub-authors">${authorNames}</div>`;
+        }
+
+        if (paper.venue) {
+          // check if the venue is arXiv.org 
+          // we will not render the venue if it is arXiv.org since we already have a link to the paper on arXiv
+          if (!paper.venue.toLowerCase().includes('arxiv')) {
+            html += `<div class="pub-venue">Published in <span style="color: #555; font-style: italic;">${paper.venue}</span></div>`;
+          }
         }
         
         html += '</li>';
