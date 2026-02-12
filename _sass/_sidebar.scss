@@ -70,25 +70,30 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
+  display: inline-block;
   vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  height: 36px;
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
 
   @include breakpoint($large) {
     display: block;
     width: auto;
     height: auto;
+    margin-right: 0;
   }
 
   img {
-    max-width: 175px;
-    max-height: 175px;
-    border-radius: 50%;
+    max-width: 110px;
+    max-height: 110px;
+    border-radius: 0;
+    width: 100%;
+    height: auto;
     
 
     @include breakpoint($large) {
+      max-width: 175px;
+      max-height: 175px;
       padding: 5px;
       border: 1px solid $border-color;
     }
@@ -96,15 +101,15 @@
 }
 
 .author__content {
-  display: table-cell;
+  display: inline-block;
   vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
+  max-width: calc(100% - 95px);
   line-height: 1;
 
   @include breakpoint($large) {
     display: block;
     width: 100%;
+    max-width: 100%;
     padding-left: 0;
     padding-right: 0;
   }
@@ -134,11 +139,11 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
-  vertical-align: middle;
+  display: block;
+  width: 100%;
+  margin-top: 15px;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
   cursor: pointer;
 
   li:last-child {
@@ -149,10 +154,12 @@
 
   @include breakpoint($large) {
     display: block;
+    margin-top: 0;
   }
 
   button {
     margin-bottom: 0;
+    width: 100%;
 
     @include breakpoint($large) {
       display: none;
