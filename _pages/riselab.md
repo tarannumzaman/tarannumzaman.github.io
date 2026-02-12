@@ -16,10 +16,14 @@ author_profile: true
 ## Members
 
 {% for member in site.data.lab.members %}
-<div style="display: flex; align-items: center; margin-bottom: 1.5em;">
+<div style="display: flex; align-items: center; margin-bottom: 0.5em;">
   <img src="{{ member.imageUrl }}" alt="{{ member.name }}" style="width: 60px; height: 60px; border-radius: 50%; margin-right: 1em; object-fit: cover;">
   <div style="flex: 1;">
+    {% if member.website %}
+    <strong><a href="{{ member.website }}" target="_blank" style="text-decoration: underline; color: inherit;">{{ member.name }}</a></strong>
+    {% else %}
     <strong>{{ member.name }}</strong>
+    {% endif %}
     {% if member.description %}
     <br><span style="font-size: 0.9em;">{{ member.description }}</span>
     {% endif %}
@@ -31,8 +35,8 @@ author_profile: true
 ## Ongoing Projects
 
 {% for project in site.data.lab.projects %}
-<div style="margin-bottom: 2em;">
-  <h3 style="color: #494e52; margin-bottom: 0.5em;">{{ project.name }}</h3>
+<div style="margin-bottom: 1em;">
+  <h3 style="color: #494e52; margin-bottom: 0.1em;">{{ project.name }}</h3>
   {% if project.description %}
   <p style="color: #5f6368; line-height: 1.6;">{{ project.description }}</p>
   {% endif %}

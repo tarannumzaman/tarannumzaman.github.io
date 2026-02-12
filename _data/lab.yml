@@ -12,6 +12,7 @@ members:
   - name: "Hasan Masum"
     role: "PhD Student"
     imageUrl: "https://hmasum52.github.io/assets/images/hmasum52_sq.jpg"
+    website: "https://hmasum52.github.io"
 
   - name: "Mehreen Rashid"
     role: "PhD Student"
