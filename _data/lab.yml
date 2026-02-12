@@ -1,0 +1,53 @@
+intro: |
+  The Rise Lab focuses on advancing software engineering research through innovative approaches in artificial intelligence, natural language processing, and program analysis. Our mission is to develop cutting-edge techniques that make software systems more autonomous, efficient, reliable, and user-friendly.
+
+  We leverage state-of-the-art technologies including Large Language Models (LLMs), Data Mining, Knowledge Discovery, and Information Retrieval to tackle complex challenges in software development and maintenance.
+
+members:
+  - name: "Professor Dr. Tarannum Shaila Zaman"
+    role: "Principal Investigator"
+    imageUrl: "https://avatars.githubusercontent.com/u/23425578?v=4"
+    description: "Assistant Professor of Information Systems, UMBC"
+
+  - name: "Hasan Masum"
+    role: "PhD Student"
+    imageUrl: "https://hmasum52.github.io/assets/images/hmasum52_sq.jpg"
+
+  - name: "Mehreen Rashid"
+    role: "PhD Student"
+    imageUrl: "https://avatars.githubusercontent.com/u/230030000?v=4"
+
+
+projects:
+  - name: Automated Reproduction of System Level Concurrency Bugs
+    description: "This project focuses on developing techniques to automatically reproduce concurrency bugs in software systems. By leveraging advanced program analysis and machine learning methods, we aim to create tools that can identify and replicate complex concurrency issues, facilitating faster debugging and improving software reliability."
+
+
+# Selected Publications to Display on Rise Lab Page
+# Add paper IDs from Google Scholar citation URLs
+# Format: https://scholar.google.com/citations?view_op=view_citation&citation_for_view=PAPER_ID
+# The PAPER_ID is in the format: AUTHOR_ID:PAPER_ID
+
+publications:
+
+  - id: "_sVj4u8AAAAJ:qUcmZB5y_30C"
+    title: "SECite: Analyzing and Summarizing Citations in Software Engineering Literature"  # Optional fallback title
+    authors: "Shireesh Reddy Pyreddy, Khaja Valli Pathan, Hasan Masum, Tarannum Shaila Zaman"
+    pdf: https://arxiv.org/abs/2601.07939
+    venue: "IEEE CCWC '26"
+    year: 2026
+
+  - id: "_sVj4u8AAAAJ:hC7cP41nSMkC"
+    title: "SysPro: Reproducing System-level Concurrency Bugs from Bug Reports"
+    authors: "Tarannum Shaila Zaman, Zhihui Yan, Chen Wang, Chadni Islam, Jiangfan Shi, Tingting Yu, Zhendong Su"
+    venue: "Journal of Systems and Software (SSRN)"
+    year: 2026
+    pdf: https://www.sciencedirect.com/science/article/pii/S0164121226000191?ssrnid=5035178&dgcid=SSRN_redirect_SD
+
+
+  - id: "_sVj4u8AAAAJ:4DMP91E08xMC"
+    title: "Llput: Investigating large language models for bug report-based input generation"  # Optional fallback title
+    authors: "Alif Al Hasan, Subarna Saha, Mia Mohammad Imran, Tarannum Shaila Zaman"
+    pdf: https://dl.acm.org/doi/abs/10.1145/3696630.3728701
+    venue: "FSE Companion '25"
+    year: 2025
