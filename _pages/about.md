@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-1. One paper is accepted in the FSE 2025 Ideas, Visions and Reflections Track (FSE-IVR).
-2. I have joined UMBC as an Assistant Professor of Information Systems.
-3. I am teaching IS 636: Structured System Analysis and Design this semester.
-4. Excited to receive my first-ever NSF grant: NSF CRII 2024!
-5. Honored to receive the Dean's Excellence Award in Research from the College of Engineering at SUNY Polytechnic Institute!
+1. Excited to receive the 2026 NSF CISE REU Student Funding through CRA.
+2. One paper published in TOSEM (ACM Transactions on Software Engineering and Methodology, Volume 35, Issue 11), November 2026.
+3. One paper published in JSS (Journal of Systems and Software, Volume 236), June 2026.
+4. One paper is accepted in the FSE 2026 Ideas, Visions and Reflections Track (FSE-IVR).
+5. I am teaching IS 636: Structured System Analysis and Design this semester, Fall 2026.
+6. Excited to receive my first-ever NSF grant: NSF CRII 2024!
 
 I am looking for self-motivated and hard-working Ph.D. students in Software Engineering, with experience in Natural Language Processing, Large Language Models, Data Mining, and Program Analysis.
 
